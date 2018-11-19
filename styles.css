@@ -1,0 +1,46 @@
+img{
+    width:500px;
+    border-radius:20px;
+    border: 10px solid black;
+    }
+    
+h1{
+    text-align:center;
+    font-family: 'Spicy Rice', cursive;
+    font-size:60px;
+    color:#F1C40F;
+    }
+    
+.movie{
+    text-align:center;
+    font-size:50px;
+    color:#F98EE9;
+    font-family: 'Lobster', cursive;
+    }
+    
+.singer{
+    text-align:center;
+    font-size:50px;
+    color:#1BBD93;
+    font-family: 'Kaushan Script', cursive;
+    }
+.actor{
+    text-align:center;
+    font-size:50px;
+    color:#DB5248;
+    font-family: 'Sedgwick Ave', cursive;
+    }
+.book{
+    text-align:center;
+    font-size:50px;
+    color:#AF4EF2;
+    font-family: 'Allerta Stencil', sans-serif;
+    }
+    
+body{
+    text-align:center;
+    background: url("https://cdn.wallpapersafari.com/90/84/i5dEZA.jpg");
+   
+    }
+
+    
